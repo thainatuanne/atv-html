@@ -1,14 +1,13 @@
-<<<<<<< HEAD
 # Atividade Prática 1:  Projeto: Growdev - Plataforma de Desenvolvimento Web
 
 **Esse projeto é uma inspiração da plataforma Growdev, que é um ambiente online voltado para o desenvolvimento web, oferecendo cursos, mentoria personalizada e uma comunidade ativa. Nossa missão é capacitar profissionais e entusiastas da área, fornecendo conhecimento prático e atualizado.**
 
-```html
 
-<p>Tecnlogias Utilizadas</p>
+
+#### Tecnlogias Utilizadas
 
 - HTML
-```
+
 
 ![Página home em ação](assets/image-home.png)
 
@@ -16,6 +15,3 @@
 
 
 Site de referência do projeto: [Growdev](https://www.growdev.com.br/)
-=======
-Atividade Prática 01 - HTML  GROWDEV
->>>>>>> 0bd3973e9dc7cd8a8abf7a9066cd92479b126025
