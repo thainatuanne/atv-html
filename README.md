@@ -10,6 +10,10 @@
 - HTML
 ```
 
+![Página home em ação](assets/image-home.png)
+
+![Página about em ação](assets/image-about.png)
+
 
 Site de referência do projeto: [Growdev](https://www.growdev.com.br/)
 =======
